@@ -98,7 +98,7 @@ class MainActivity : AppCompatActivity() {
 
             connection.setRequestProperty("X-RapidAPI-Host", "sameer-kumar-aztro-v1.p.rapidapi.com")
             // set the rapid-api key
-            connection.setRequestProperty("X-RapidAPI-Key", "<3dff07b0f5msh40d4c6bb5e5815fp1fabfajsn77cdcf2e6982>")
+            connection.setRequestProperty("X-RapidAPI-Key", "<xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx>")
 
             connection.setRequestProperty("content-type", "application/x-www-form-urlencoded")
 
